@@ -1,0 +1,19 @@
+.navbar-main{
+    background: linear-gradient(15deg, rgba(48,79,254,1) 17%, rgba(39,65,214,1) 44%, rgba(26,46,161,1) 91%);
+}
+.navbar-main .nav{
+    height: 50px;
+}
+.navbar-main .logo{
+    width: 26px;
+    height: 26px;
+    fill: white;
+}
+.navbar-main .logout{
+    font-size: 12px;
+    padding-top: 12px;
+    padding-right: 10px;
+}
+.navbar-main .logout:hover{
+    color: #161616;
+}

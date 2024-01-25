@@ -1,0 +1,19 @@
+.update-myprofile .profile-pic{
+    width: 100px;
+    height: 100px;
+    background: linear-gradient(15deg, rgba(48,79,254,1) 17%, rgba(72,99,246,1) 56%, rgba(26,46,161,1) 91%);
+    border-radius: 50%;
+}
+.update-myprofile .profile-pic p{
+    color: white;
+    font-size: 32px;
+    font-weight: 500;
+}
+.update-myprofile .edit-icon{
+    width: 20px;
+    height: 20px;
+    fill: #304ffe;
+}
+.personal-data > *{
+    font-size: 13px;
+}

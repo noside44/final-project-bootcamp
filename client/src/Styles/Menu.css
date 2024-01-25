@@ -1,0 +1,26 @@
+.nav{
+    background: linear-gradient(15deg, rgba(48,79,254,1) 17%, rgba(39,65,214,1) 44%, rgba(26,46,161,1) 91%);
+}
+.nav-link > p:hover{
+    color: #304ffe;
+}
+.nav-link, .nav-item{
+    background: rgba(0, 0, 255, 0),
+}
+.nav .logo-nav{
+    width: 25px;
+    height: 25px;
+    fill: rgb(255, 255, 255);
+    background-color: rgba(0, 255, 255, 0);
+}
+.menu-container .logo1{
+    width: 40px;
+    /* width: 40px; */
+    fill: rgb(255, 255, 255);
+    color: white;
+}
+.menu-container p{
+    color: white;
+    font-size: 12px;
+    margin-left: 4px;
+}

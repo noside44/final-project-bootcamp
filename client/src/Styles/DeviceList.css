@@ -1,0 +1,41 @@
+.device-info{
+    min-width: 300px;
+    background-color: rgb(37, 37, 37);
+}
+.device-info .device-img{
+    width: 60px;
+    height: 60px;
+    margin-right: 16px;
+}
+.device-info .logo-device{
+    width: 80px;
+    height: 80px;
+    background-color: #ffffff00;
+    fill: white;
+}
+.device-info .logo{
+    width: 20px;
+    height: 20px;
+}
+.device-info .edit-device-logo{
+    fill: #304ffe;
+}
+.device-info .stats-device-logo{
+    fill: white;
+}
+.delete-device-logo{
+   fill: rgb(255, 255, 255); 
+}
+.device-list-container .add-button{
+    width: 60px;
+    height: 60px;
+    fill: #ffffff;
+    position: absolute;
+    bottom: 30px;
+    right: 30px;
+}
+.device-list-container .add-button:hover{
+    scale: 1.2;
+    fill: #304ffe;
+    cursor: pointer;
+}

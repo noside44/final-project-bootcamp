@@ -1,0 +1,32 @@
+.user-info{
+    min-width: 300px;
+    background: rgb(37, 37, 37);
+}
+.user-info .user-img{
+    width: 85px;
+    height: 85px;
+    margin-right: 16px;
+    fill: white;
+}
+.user-info .logo{
+    width: 20px;
+    height: 20px;
+}
+.user-info .edit-logo{
+    fill: #304ffe;
+}
+.user-info .delete-logo{
+    fill: #ffffff;
+}
+.user-list-container .add-button{
+    width: 80px;
+    height: 80px;
+    fill: #ffffff;
+    position: absolute;
+    bottom: 30px;
+    right: 30px;
+}
+.user-list-container .add-button:hover{
+    scale: 1.2;
+    fill: #304ffe;
+}

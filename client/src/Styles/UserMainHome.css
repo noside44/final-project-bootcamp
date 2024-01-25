@@ -1,0 +1,16 @@
+.device-img{
+    width: 200px;
+}
+.active{
+    fill: #1876D0;
+}
+.home-container .icon-home{
+    display: inline-block;
+    background-image: url(../Assets/img/domo-house.svg);
+    background-size: cover;
+    width: 150px;
+    height: 150px;
+}
+.device-on{
+    fill: rgb(0, 119, 255);
+}
